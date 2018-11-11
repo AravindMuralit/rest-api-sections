@@ -3,7 +3,7 @@ b = 10
 my_variable = 56
 any_variable_name = 100
 
-string_variable = "hello"
+string_variable = "hello Aravind"
 single_quotes = 'strings can have single quotes'
 
 print(string_variable)
